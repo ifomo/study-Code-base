@@ -8,7 +8,7 @@ public class Part4_2 {
 		Rectangle j1 = new Rectangle();
 		j1.Area();
 		//haha j2 = new haha(2.0f, 3.0f);
-		/*在Week_Four目录下，我们找不到haha文件，会报错*/
+		/*鍦╓eek_Four鐩綍涓嬶紝鎴戜滑鎵句笉鍒癶aha鏂囦欢锛屼細鎶ラ敊*/
 		
 	}
 	
