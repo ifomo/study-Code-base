@@ -1,5 +1,6 @@
 package Week_Four;
 
+//用到Address.java文件构造的Address类
 public class Part5_1 {
 	public static void main(String[] a) {
 		Address a1 = new Address();
