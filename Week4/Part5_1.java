@@ -3,11 +3,11 @@ package Week_Four;
 public class Part5_1 {
 	public static void main(String[] a) {
 		Address a1 = new Address();
-		Address a2 = new Address("ÃÀ¹ú", "»ªÊ¢¶Ù", "Å¦Ô¼", "ÌØÀÊÆÕ´óµÀ", "852963");
+		Address a2 = new Address("è‹±å›½", "æ¹–åŒ—çœ", "é»„çŸ³å¸‚", "å›¢åŸå¸‚è·¯", "654321");
 
 		System.out.println(a1.getAddress());
 		System.out.println(a2.getAddress());
-		a2.setCountry("ÖĞ¹ú");
+		a2.setCountry("ä¸­å›½");
 		System.out.println(a2.getAddress());
 	}
 }
